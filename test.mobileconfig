@@ -34,7 +34,7 @@
 
 <key>Label</key>
 
-<string>Snapchat</string>
+<string>Test</string>
 
 <key>PayloadDescription</key>
 
@@ -42,15 +42,15 @@
 
 <key>PayloadDisplayName</key>
 
-<string>Web Clip (Snapchat)</string>
+<string>Web Clip (Test)</string>
 
 <key>PayloadIdentifier</key>
 
-<string>com.aesthetica.49Wt7jy3-5rxu-4XD4-Antk-G12d</string>
+<string>com.aesthetica.0UoJq2CV-zGD6-4rOJ-Ana0-ZNcj</string>
 
 <key>PayloadOrganization</key>
 
-<string>Snapchat</string>
+<string>Test</string>
 
 <key>PayloadType</key>
 
@@ -58,7 +58,7 @@
 
 <key>PayloadUUID</key>
 
-<string>49Wt7jy3-5rxu-4XD4-Antk-G12d</string>
+<string>0UoJq2CV-zGD6-4rOJ-Ana0-ZNcj</string>
 
 <key>PayloadVersion</key>
 
@@ -70,11 +70,11 @@
 
 <key>TargetApplicationBundleIdentifier</key>
 
-<string>com.toyopagroup.picaboo</string>
+<string>test</string>
 
 <key>URL</key>
 
-<string>com.toyopagroup.picaboo://</string>
+<string>test</string>
 
 </dict>
 </array>
@@ -85,11 +85,11 @@
 
 <key>PayloadDisplayName</key>
 
-<string>Aesthetica Theme (test)</string>
+<string>Aesthetica Theme (tets)</string>
 
 <key>PayloadIdentifier</key>
 
-<string>com.aesthetica.49Wt7jy3-5rxu-4XD4-Antk-G12d</string>
+<string>com.aesthetica.EuEtgLzf-2pzn-4VMc-AJMQ-rpPD</string>
 
 <key>PayloadOrganization</key>
 
@@ -105,7 +105,7 @@
 
 <key>PayloadUUID</key>
 
-<string>49Wt7jy3-5rxu-4XD4-Antk-G12d</string>
+<string>EuEtgLzf-2pzn-4VMc-AJMQ-rpPD</string>
 
 <key>PayloadVersion</key>
 
