@@ -1,6 +1,7 @@
-### Hi there 👋
-I'm Ezra nice to meet you!
-This is my GitHub profile!
+### Hello I'm Ezra 👋
+[Website](https://ezradulaney.com)
+[Projects](https://ezradulaney.com/projects)
+
 
 <!--
 **LegitEzra/LegitEzra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
